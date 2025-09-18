@@ -20,7 +20,7 @@ public class HelloFXApp extends Application {
 
 		Scene scene = new Scene(root, 300, 50);
 		stage.setScene(scene);
-		stage.setTitle("Aplicación JavaFX de Exemplo");
+		stage.setTitle("Aplicaión JavaFX de Exemplo");
 		stage.show();
 
 	}
